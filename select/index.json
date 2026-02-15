@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SUPER BEAVER 「突破口」 MV  (TVアニメ『ハイキュー!! TO THE TOP』第2クール オープニングテーマ)",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2026-02-15T15:16:41.512272Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SUPER BEAVER 「名前を呼ぶよ」MV",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/01_SUPER_BEAVER_「名前を呼ぶよ」MV_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SUPER BEAVER 「ひとりで生きていたならば」 MV",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/02_SUPER_BEAVER_「ひとりで生きていたならば」_MV_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SUPER BEAVER 「突破口」 MV",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/03_SUPER_BEAVER_「突破口」_MV_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SUPER BEAVER「予感」MV",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/04_SUPER_BEAVER「予感」MV_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Super Beaver - your song",
+      "artist": "Super Beaver",
+      "has_synced": true,
+      "path": "select/05_Super_Beaver_-_your_song_Super_Beaver.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Super Beaver - Gensou",
+      "artist": "Super Beaver",
+      "has_synced": true,
+      "path": "select/06_Super_Beaver_-_Gensou_Super_Beaver.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Super Beaver - Zerokyori",
+      "artist": "Super Beaver",
+      "has_synced": true,
+      "path": "select/07_Super_Beaver_-_Zerokyori_Super_Beaver.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Super Beaver - Goodbye",
+      "artist": "Super Beaver",
+      "has_synced": true,
+      "path": "select/08_Super_Beaver_-_Goodbye_Super_Beaver.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Super Beaver - Sohitetunagaru",
+      "artist": "Super Beaver",
+      "has_synced": true,
+      "path": "select/09_Super_Beaver_-_Sohitetunagaru_Super_Beaver.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Super Beaver - Tokyo ryuseigun",
+      "artist": "Super Beaver",
+      "has_synced": false,
+      "path": "select/10_Super_Beaver_-_Tokyo_ryuseigun_Super_Beaver.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Super Beaver - Hoshininariyukuhito",
+      "artist": "Super Beaver",
+      "has_synced": true,
+      "path": "select/11_Super_Beaver_-_Hoshininariyukuhito_Super_Beaver.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Super Beaver - Yorokobino asuni(Acoustic ver.)",
+      "artist": "Super Beaver",
+      "has_synced": true,
+      "path": "select/12_Super_Beaver_-_Yorokobino_asuni(Acoustic_ver.)_Super_Beaver.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Super Beaver - Sonohiwomatuyouni",
+      "artist": "Super Beaver",
+      "has_synced": true,
+      "path": "select/13_Super_Beaver_-_Sonohiwomatuyouni_Super_Beaver.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "突破口",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/14_突破口_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "突破口 - Toppako",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/15_突破口_-_Toppako_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "突破口",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_突破口_SUPER_BEAVER.txt"
+    }
+  ]
+}
